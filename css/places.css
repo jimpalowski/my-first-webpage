@@ -1,0 +1,58 @@
+h1{
+text-align: center;
+
+}
+h2{
+
+  text-align: center;
+}
+
+
+h3 {
+  text-align: center;
+}
+body {
+  background-image: url("https://www.nasa.gov/sites/default/files/images/712129main_8247975848_88635d38a1_o.jpg");
+  background-size: auto;
+  background-position: center;
+  color: white;
+
+}
+
+p {
+  margin: 0 !important;
+  text-align:center;
+}
+
+img.sandiego {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  height: auto;
+}
+
+img.losAngeles {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:20%;
+  height: auto;
+}
+
+img.seattle{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:20%;
+  height: auto;
+
+}
+
+img.bali {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:20%;
+  height: auto;
+}

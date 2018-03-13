@@ -1,0 +1,30 @@
+body{
+background-color:lightblue;
+
+}
+  h2 {
+    color:red;
+    text-align: center;
+}
+
+h3 {
+font-size: italic;
+text-align: center;
+}
+
+p {
+font-family: sans-serif;
+text-align: center;
+}
+
+ul {
+list-style-position: inside;
+text-align:center;
+ }
+li {
+
+}
+footer{
+  text-align: center;
+  font-size: 35px
+}
